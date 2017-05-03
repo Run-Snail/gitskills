@@ -1,3 +1,4 @@
 # gitskills
-Creating a new branch is quick & simple.
-new dev branch
+Creating a new branch is quick AND simple.
+new dev branch 001
+feature and dev branch
